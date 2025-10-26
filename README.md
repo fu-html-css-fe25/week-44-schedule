@@ -15,7 +15,7 @@ Vi tittar också på hur man bygger formulär med HTML och stylar dem med CSS, s
 ## Resurser
 
 ### Presentationer
-* [CSS Grid]()
+* [CSS Grid](https://docs.google.com/presentation/d/16l2MHuL_NWwNWcgrvn0fqXsGsQ26qxBE/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Formulär]()
 
 
@@ -24,6 +24,7 @@ Vi tittar också på hur man bygger formulär med HTML och stylar dem med CSS, s
 
 ### Lektionsrepon
 
+* [27 okt](https://github.com/fu-html-css-fe25/week-44-lecture-27-okt)
 
 ### Filmer
 * [Learn CSS Flexbox in 10 minutes](https://www.youtube.com/watch?v=GteJWhCikCk)
@@ -42,9 +43,9 @@ Vi tittar också på hur man bygger formulär med HTML och stylar dem med CSS, s
 
 
 ### Övningar
-* [CSS Grid Bootcamp]()
 * [CSS Grid Garden](https://cssgridgarden.com/#sv)
-* [Poster Shop]()
+* [CSS Grid Bootcamp](https://github.com/fu-html-css-fe25/week-44-exercise-grid-bootcamp)
+* [Grid Space Hack](https://github.com/fu-html-css-fe25/week-44-exercise-grid-space-hack) - Veckans Code Review Uppgift!
 * [Form Bootcamp]()
 
 
