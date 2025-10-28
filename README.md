@@ -16,12 +16,13 @@ Vi tittar också på hur man bygger formulär med HTML och stylar dem med CSS, s
 
 ### Presentationer
 * [CSS Grid](https://docs.google.com/presentation/d/16l2MHuL_NWwNWcgrvn0fqXsGsQ26qxBE/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-* [Formulär]()
+* [Formulär](https://docs.google.com/presentation/d/167aNhr0E1NEAyRn762NRHtGaXWoXjhoK/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
 ### Inspelade föreläsningar
 
 * [CSS Grid](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EcDtRecbFrdCndf4W0-97YUB3sZ49v9gy-i2loPENt_DYQ?e=bcVSm4)
+* [CSS Grid Bootcamp](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EfaV_S-FxLRPhflL4lHgiAgBe1H7_nRmFnVtB5yxJIA1GA?e=WRZBoT)
 
 ### Lektionsrepon
 
@@ -47,7 +48,7 @@ Vi tittar också på hur man bygger formulär med HTML och stylar dem med CSS, s
 * [CSS Grid Garden](https://cssgridgarden.com/#sv)
 * [CSS Grid Bootcamp](https://github.com/fu-html-css-fe25/week-44-exercise-grid-bootcamp)
 * [Grid Space Hack](https://github.com/fu-html-css-fe25/week-44-exercise-grid-space-hack) - Veckans Code Review Uppgift!
-* [Form Bootcamp]()
+* [Form Bootcamp](https://github.com/fu-html-css-fe25/week-44-exercise-form-bootcamp/tree/main)
 
 
 
