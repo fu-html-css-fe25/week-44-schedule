@@ -27,6 +27,7 @@ Vi tittar också på hur man bygger formulär med HTML och stylar dem med CSS, s
 ### Lektionsrepon
 
 * [27 okt](https://github.com/fu-html-css-fe25/week-44-lecture-27-okt)
+* [29 okt](https://github.com/fu-html-css-fe25/week-44-lecture-29-okt)
 
 ### Filmer
 * [Learn CSS Flexbox in 10 minutes](https://www.youtube.com/watch?v=GteJWhCikCk)
